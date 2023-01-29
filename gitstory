@@ -1,0 +1,28 @@
+What is Version control?
+WHat are the version control systems?  - VCS gives the ability to contorl the vesrion of file. 
+Why to use control version control system -what are the benefits 
+  Long-term change history
+  Branching- Co Working
+  Trackable
+  Secure
+  Flexibility 
+How can VCS track changes?
+What is distibuted versioning?
+What is the most popular web-based hosting service?
+it is not necessary to be connected to the internet while working with git why?
+WHat is git Reporsitory? Repository in git contain a collection of files of various different version of a project. 
+Types of Repostitory  - It is divided based on usage of server.
+  Bare Repository - Share the changes that are done by different developvers. User is not allowed to modify this repo or create a new version for this repo based on the modification done.
+  Non-Bare Repository - user frendly, allow users for modification and create new version. Clonning process by deafult create a non-bare repo if any param is not specified during clonning
+Staging of the Repo
+  -Untracked   - unable to track the file, file never staged nor commited
+  -Tracked - 
+  -Staging
+  -Modified/Dirty 
+  
+  Only the files in working area can be commit to repo.
+  
+
+  
+
+
