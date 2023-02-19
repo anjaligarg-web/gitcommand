@@ -1,0 +1,165 @@
+Course Outline
+Git Basis
+Gettign STarted with GIT
+Remote Reposiotires 
+Branching, Mergig and Rebasing in GIt
+Bitbucket and GitLab
+Git Plugin with IDE  - what are the benefits
+ 
+
+Task
+
+Setup git in your system 
+Demostrate the git workflow
+Create and Form Repositories on GutHUb and Push chages back after working on them locally
+Create branches and resolve merge conflicts
+Work on a project in collaboration with your colleagues to perform code reviews, pull requests and releases using bitbucket
+create and manage complex project in gitlab
+Create your own CI piplines
+Demostate Git Inside popular IDESs such as Eclipse and Intellij
+
+2 Obsecjtives:
+Create Local Repository 
+Puch Repository to GitHub
+Demostrate git workflow
+Track file changes in a git repository 
+Staging changes as multiple commits
+Undo changes as multiple commits
+undo changes -revert commits
+Rename files
+Ignore files using .gitignore
+
+3rd Objectives
+Create a Repository in github using https 
+create a repository in github using ssh 
+Create a fork and pull request
+pulling commits from github
+collaborating between local and remote repository 
+Managing multiple commits in Git
+Merging File changes in Git
+Creating and Tracking issues
+Getting started with git Upstream 
+Create and Delete tags
+
+4th Objective
+Branching in GIT
+Switch between branches
+Merging Branches
+Branches Merge Ways
+Resolving Merge Conflicts
+Rebasing
+
+5th Objectives
+BitBucket
+Creating a Repository on Bitbucket
+Copying your Git Repository and Add files on Bitbucket
+Using Banching on Bitbucket
+Create a repository and add a teammate with Bitbucket
+Using Branching on Bitbucket
+Create a Repository and add a teammate with Bitbucket
+Clone and make a change on a new branch with Bitbucket
+Create a pull request to merge your change with Bitbucket
+Undoing changes with Bitbucket cloud
+GitLab
+SSH key Setup
+Create a Project
+Fork a Project
+Create a Brnach 
+Add a file
+Rebase operation
+GITLAB -users and groups permisisons
+GitLab issue tracker
+
+6th Objectives
+Install Eclipse IDE
+Confi GitPlugin 
+How to work with Git workflow on Eclipse IDE
+Clone repository in eclipse
+Add eclipse project to github repo
+commit, push and pull changes
+intall intellij
+Using Git in Intellij IDE
+Explore Github UI options
+
+
+Question:
+What is version Control?
+What are version control systems?
+Why to use version control systems - 
+ Ans Long-term change history
+Branching- co-working
+Trackable
+Secure
+Fliexibility 
+
+How can VCS track changes
+What is distributed versioning 
+What is the most popular web based hosting service?
+it is not necessary to be connected to the internet while working with Git why?
+
+
+What is a Git Repository 
+What are types of Repositories
+What is the difference between tracked Repositories and staged Repository 
+What is the difference between Forking workflow and gitflow workflow 
+what is the difference betwee cetralized workflow and feature branch workflow 
+
+How can we create a repository 
+How can we push a repository to github
+How can we track file changes in a git repository 
+How can we revert a commit
+How can we rename a file
+How can we ignore files
+
+
+What are remote repositories
+When does working on a remote repository become necessary 
+how can we create a repostiory with HTTPs
+How can we create a repository with https
+how can we create a repository with ssh
+what is a fork 
+what is the main difference between fork and pull request
+what is upstream 
+
+
+How can we create a Repository in github using https
+How can we create a repository in github using SSH
+What is the difference between fork and pull request
+How can we pull commits from github
+How can we merge file changes in Git
+How can we create an issue
+
+What is Branching? 
+How can we switch between 5 branches?
+What is stashing?
+What is Rebasing?
+What is the differene between Branches and Tags?
+What is the difference between different merge Types?
+
+How can you create a branch?
+How can you switch between branches?
+How can you merge Brnaches?
+How can you resolving Merge Conflicts?
+How can you do rebasing?
+
+
+What is Bitbucket
+How can we create a Repositry on Bitbucket
+How can we pull changes from git repository on Bitbucket
+What is GitLab
+How can we Setup SSH key for GitLab
+
+What is IDE?
+What is the difference between VCS and IDE?
+What does IDE consist of?
+What are the most popular of IDEs?
+What is the difference between Intelliji and Eclipse?
+
+How can we clone repository in Eclipse
+How can we Add eclipse project to gihub repo in Eclipse
+How can we commit, push and pull changes in Eclipse
+How can we clone repository in Intellij
+How can we add eclipse project to GitHub repo in Intellij
+How can we commit, push and pull changes in Intellij
+
+
